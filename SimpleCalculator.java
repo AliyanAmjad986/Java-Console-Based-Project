@@ -102,7 +102,7 @@ public class SimpleCalculator {
         System.out.println("Wrong input");
 }
 }
-myval.close();
+//myval.close();
 
 //for continious operation
 String other_operation ;
